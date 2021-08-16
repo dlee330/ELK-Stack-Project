@@ -1,0 +1,34 @@
+Player Dealer Correlation Note: by David Lee for the Lucky Duck Casino
+======================================================================
+Date: 28 May 2021
+
+Here are the findings:
+
+Player Analysis
+1) The 0310_win_loss_player_data file revealed major losses occuring 5 times. Mylie Schmidt played Roulette on all of thoes times. 
+2) The 0312_win_loss_player_data file revealed major losses occuring 5 times. Mylie Schmidt played Roulette on all of those times. 
+3) The 0315_win_loss_player_data file revealed major losses occuring 3 times. Mylie Schmidt played Roulette on all of those times. 
+4) Total of 13 times the losses occured to the casino during the period of March 10, 12, and 15..
+5) Mylie Schmidt played in all 13 times when losses occured.  
+6) The Roulette_Losses file summaries the losses with Mylie Schmidt appearing in all of the times.
+
+Dealer Analysis
+1) The 0310_Dealer_schedule file revealed Billy Jones was the Roulette table dealer during the times the losses occured. Losses occured 5 times. 
+2) The 0312_Dealer_schedule file revealed Billy Jones was the Roulette table dealer during the times the losses occured. Losses occured 5 times. 
+3) The 0315_Dealer_schedule file revealed Billy Jones was the Roulette table dealer during the times the losses occured. Losses occured 3 times. 
+4) The Dealer_working_during_losses table shows Billy Jones was the only Roulette dealer during the times the losses occured. 
+5) Billy Jones appeared 13 times in total all of those times the losses occured.
+
+
+Conclusion:
+
+13 out of 13.
+13 times the lossess occured to the casino Mylie Schmidt and Billy Jones were always together.
+
+Therefore, we can conclude that Mylie Schmidt and Billy Jones were colluding to steal money from Luck Duck Casino.
+
+
+
+
+
+
